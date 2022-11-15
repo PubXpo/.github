@@ -11,5 +11,5 @@ This exhibition utilizes GitHub's features to create a standalone container. The
 In compliance with ICO standards and common internet safety guides, identifiable information and potential risks like API keys have been altered or removed.
 <br><br>
 <br><br>
-<div  align="center"><img width="70%" src="PubXpo_Thanks.gif"></div>
+<div  align="center"><img width="70%" src="https://raw.githubusercontent.com/PubXpo/.github/main/profile/PubXpo_Thanks.gif"></div>
 
