@@ -1,7 +1,7 @@
 <!-- add a personalised banner -->
-<h1><img width="100%" src="https://raw.githubusercontent.com/PubXpo/.github/main/profile/PubXpo_Banner.png"></h1>
+<img width="100%" src="https://raw.githubusercontent.com/PubXpo/.github/main/profile/PubXpo_Banner.png">
 
-##  <h2 style="font-weight:bold;" align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">Hi there!</h2>
+<h1 style="font-weight:bold;" align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">Hi there!</h1>
 This exhibition utilizes GitHub's features to create a standalone container. The purpose of this container is to showcase projects described via my public CV.
 
 - Each project includes a detailed README with source code. 
