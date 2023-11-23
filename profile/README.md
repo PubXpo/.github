@@ -2,13 +2,15 @@
 <img width="100%" src="https://raw.githubusercontent.com/PubXpo/.github/main/profile/PubXpo_Banner.png">
 
 <h1 style="font-weight:bold;" align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">Hi there!</h1>
-This exhibition utilizes GitHub's features to create a standalone container. The purpose of this container is to showcase projects described via my public CV.
+This GitHub showcase functions as a self-contained exhibit, highlighting projects detailed in my public CV.
 
-- Each project includes a detailed README with source code. 
+- Each project is accompanied by a comprehensive README, providing insights into the underlying source code.
 
-- Additionally, the timepeace project contains an organized wiki and provides links in its README.
+- Special attention to the 'timepeace' project—it goes beyond code, featuring an organized wiki and essential links in the README.
 
-In compliance with ICO standards and common internet safety guides, identifiable information and potential risks like API keys have been altered or removed.
+To ensure privacy, I've adhered to ICO standards, safeguarding against identifiable information and potential risks like API keys.
+
+Explore this curated space for a glimpse into my professional endeavors. Safety is a priority, and your curiosity is welcome! 🌐
 <br><br>
 <br><br>
 <div  align="center"><img width="70%" src="https://raw.githubusercontent.com/PubXpo/.github/main/profile/PubXpo_Thanks.gif"></div>
